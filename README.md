@@ -16,7 +16,6 @@ end
 ```
 
 This outputs `Penguins like to jump off icebergs!` five times in your Terminal.
-
 ## Examples
 
 ### Basic `times` Example: Dinner Party
